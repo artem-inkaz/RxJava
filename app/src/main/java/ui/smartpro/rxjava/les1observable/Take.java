@@ -2,6 +2,9 @@ package ui.smartpro.rxjava.les1observable;
 
 import android.util.Log;
 
+import rx.Observable;
+import rx.Observer;
+
 public class Take {
 //take
 //Оператор take возьмет только указанное количество первых элементов из переданной ему
